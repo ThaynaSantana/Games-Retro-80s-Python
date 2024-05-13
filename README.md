@@ -5,8 +5,7 @@ Este repositório contém uma coleção de jogos retrô dos anos 80, inspirados 
 
 ### Conteúdo do Livro
 O livro apresenta os seguintes jogos:
-
-### Robot Missile
+- Robot Missile
 - The Vital Message
 - Shootout
 - Desert Tank Battle
